@@ -1,0 +1,28 @@
+# IDE
+.idea/
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Python
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Project-specific outputs (generated files, not source)
+data/processed/
+*.pkl
+
+# Environment variables
+.env
